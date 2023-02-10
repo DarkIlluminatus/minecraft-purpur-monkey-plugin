@@ -4,6 +4,6 @@ GPL 3.0 (Conditional) Condition: Permission to use freely with the sole conditio
 
 
 TODO:  
-assets (audio, models, textures)
-finish AI scripts
+assets (audio, models, textures),
+finish AI scripts,
 set spawn locations for Monkeys and Trees
