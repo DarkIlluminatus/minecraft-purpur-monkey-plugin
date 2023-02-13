@@ -1,3 +1,6 @@
+Current status: Awaiting a way to bridge mods as a behaviour pack for bedrock edition. 
+This may take quite some time.
+
 # minecraft-purpur-monkey-plugin
 Very much a WIP so far, but we figure it'll be easier if the community can offer suggestions.
 
